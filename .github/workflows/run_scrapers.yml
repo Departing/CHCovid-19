@@ -36,7 +36,7 @@ jobs:
           - TI
           - UR
           - VD
-          - VS
+#          - VS # disable VS, data is updated manually for now
           - ZG
           - ZH
           - FL
